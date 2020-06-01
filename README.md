@@ -26,5 +26,5 @@ Steps To Access:
 
 	4.1. You are on the homepage of the application.
 
-		![[homepage: Logged Expenses](https://github.com/zlatanned/expenseLedger/screenshots/homepage.png)]
+![[homepage: Logged Expenses](https://github.com/zlatanned/expenseLedger/raw/master/screenshots/homepage.png)]
 
