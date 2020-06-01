@@ -1,12 +1,11 @@
 const mongoose = require("mongoose");
-const dbConfig = require("../config/db.config");
 
 mongoose.Promise = require("bluebird");
 
 module.exports = {
   connect() {
     return mongoose
-      .connect(dbConfig.url, {
+      .connect(process.env.MONGODB_URL, {
         useNewUrlParser: true,
         useUnifiedTopology: true,
       })
