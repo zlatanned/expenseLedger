@@ -38,6 +38,6 @@ Steps To Access:
 
     	4.3 You can view your added expenses and can also update and delete a particular expense from Actions column.
 
-![Create User: An existing user can only log Expenses](https://github.com/zlatanned/expenseLedger/raw/master/screenshots/user.png)
+![Create User: An existing user can only log Expenses](https://github.com/zlatanned/expenseLedger/raw/master/screenshots/homepage.png)
 
     5. Happy Expense Logging. :)
