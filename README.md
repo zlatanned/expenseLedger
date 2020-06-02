@@ -28,3 +28,16 @@ Steps To Access:
 
 ![homepage: Logged Expenses](https://github.com/zlatanned/expenseLedger/raw/master/screenshots/homepage.png)
 
+	4.2. Create a User, an existing user can only log expenses:
+
+![Create User: An existing user can only log Expenses](https://github.com/zlatanned/expenseLedger/raw/master/screenshots/user.png)
+
+	4.3. Create a new Expense, with a existing user.
+
+![Create A new Expense: with a existing user](https://github.com/zlatanned/expenseLedger/raw/master/screenshots/new-expense.png)
+
+    	4.3 You can view your added expenses and can also update and delete a particular expense from Actions column.
+
+![Create User: An existing user can only log Expenses](https://github.com/zlatanned/expenseLedger/raw/master/screenshots/user.png)
+
+    5. Happy Expense Logging. :)
