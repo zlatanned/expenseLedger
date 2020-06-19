@@ -1,4 +1,4 @@
-#expenseLedger
+ExpenseLedger =>
 
 An expense-tracker application built on top of Node.js & React.js.
 
